@@ -17,6 +17,8 @@
 </a>
 </div>
 
+<img src="https://raw.githubusercontent.com/Agent-003/Agent-003/main/Wheat%20Field%20and%20Yellow%20Blue%20Flag.png" alt="banner Strong Ukraine">
+
 <!---
 Agent-003/Agent-003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
