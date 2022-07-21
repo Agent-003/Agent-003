@@ -19,7 +19,7 @@
 
 <h2 dir="auto">Most used language</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agent-003&layout=compact)](https://github.com/Agent-003/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agent-003&layout=compact)
 
 <img src="https://raw.githubusercontent.com/Agent-003/Agent-003/main/Wheat%20Field%20and%20Yellow%20Blue%20Flag_1.png" alt="banner Strong Ukraine">
 
