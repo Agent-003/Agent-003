@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anastasiia.
 - 👀 I’m interested in PHP, JavaScript, Magento 2.
-- 🌱 I’m currently learning Node.js, Angulat
+- 🌱 I’m currently learning Node.js, Angular
 - :speaking_head:  I speak English, Ukrainian, Russian
 
 
